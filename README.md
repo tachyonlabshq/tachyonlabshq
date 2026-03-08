@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm tachyonlabshq 👋
 
-<!--
-**tachyonlabshq/tachyonlabshq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here is a quick look at my tech stack and what I've been working on:
 
-Here are some ideas to get you started:
+## 📊 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachyonlabshq&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tachyonlabshq&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="tachyonlabshq's GitHub stats" />
+</div>
+
+## 🚀 Projects & Tech
+* **Languages:** Python, Rust, TypeScript, JavaScript
+* **Focus:** Check out my recent work on OpenCode plugins and Rust-powered DNS tooling!
