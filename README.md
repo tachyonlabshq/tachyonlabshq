@@ -4,15 +4,7 @@ Welcome to my GitHub profile! Here is a quick look at my tech stack and what I'v
 
 ## 📊 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachyonlabshq&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tachyonlabshq&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="tachyonlabshq's GitHub stats" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=tachyonlabshq&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ## 🚀 Projects & Tech
 * **Languages:** Python, Rust, TypeScript, JavaScript
